@@ -3,7 +3,7 @@ Written in Java.
 Drawn with Javax.Swing / Java.AWT.
 
 ### Video Demonstration:
-[![Watch a video demonstration](https://img.youtube.com/vi/VSsdKq7BiGk)](https://youtu.be/VSsdKq7BiGk)
+[![Watch a video demonstration](https://img.youtube.com/vi/VSsdKq7BiGk/hqdefault.jpg)](https://youtu.be/VSsdKq7BiGk)
 
 #### How to Use:
 Compile the program by `cd`ing into the directory and running:
